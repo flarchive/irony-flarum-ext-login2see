@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of irony/flarum-ext-login2see.** Not for installation: use [Packagist](https://packagist.org/packages/irony/flarum-ext-login2see) or the [upstream repository](https://github.com/892768447/flarum-ext-login2see).
 
-**0** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/irony-flarum-ext-login2see/tree/archive/v0.0.1) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**1** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/irony-flarum-ext-login2see/tree/archive/v0.0.1) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2019-11-19 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/irony-flarum-ext-login2see/tree/archive/v0.0.1) |
 
 Catalog entry: [packages/irony-flarum-ext-login2see.json](https://github.com/flarchive/archive-index/blob/main/packages/irony-flarum-ext-login2see.json)
 
